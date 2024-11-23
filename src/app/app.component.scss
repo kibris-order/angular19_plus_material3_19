@@ -1,0 +1,16 @@
+.navbar-layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+nav {
+  background: #34495e;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+main {
+  flex-grow: 1;
+  background: #ecf0f1;
+  padding: 20px;
+}
